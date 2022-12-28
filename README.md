@@ -1,14 +1,18 @@
 📝 Description
 ```
-This project we have made by using RandomForestclassifier
+The prominent inequality of wealth and income is a huge concern, especially in the United States. The likelihood of diminishing poverty is one valid reason to reduce the world's surging level of economic inequality. The principle of universal moral equality ensures sustainable development and improves the economic stability of a nation. Governments in different countries have been trying their best to address this problem and provide an optimal solution. This study aims to show the usage of machine learning and data mining techniques in providing a solution to the income equality problem. The Kaggle Adult Dataset has been used for this purpose. Classification has been done to predict whether a person's yearly income in the US falls in the income category of either greater than 50K Dollars or less equal to 50K Dollars category based on a certain set of attributes. The RandomForest Classifier Model was deployed which clocked the highest accuracy of 93.687%, eventually breaking the benchmark accuracy of existing works.
 ```
 ⏳ Dataset
 ```
 Download the dataset for custom training:
-
+https://drive.google.com/file/d/1IZmEXpMSaginm0oY8N4ch33i7n2qJMRo/view?usp=share_link
 ```
-### Step 1 - Install the requirements
-
+Download all document related to this project from link below:
+```
+https://drive.google.com/drive/folders/1834vTMdLwxIKvrP1vaM3tOh2ifA6Pp-I?usp=share_link
+```
+### Step 1 - Install the requirements or installation guide go to link below
+https://drive.google.com/file/d/1mU_oEwGrVpppWAiZ5Fkws4v7XqhNASNG/view?usp=share_link
 ```bash
 pip install -r requirements.txt
 ```
@@ -77,14 +81,6 @@ git pull origin main
 ```
 Note: origin--> contains url to your github repo
 main--> is your branch name
-
-
-.env file has
-```
-MONGO_DB_URL="mongodb://localhost:27017"
-AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
-AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
-```
 
 ```
 curl -fsSL https://get.docker.com -o get-docker.sh
