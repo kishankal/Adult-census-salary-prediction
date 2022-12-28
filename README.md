@@ -1,3 +1,12 @@
+📝 Description
+```
+This project we have made by using RandomForestclassifier
+```
+⏳ Dataset
+```
+Download the dataset for custom training:
+
+```
 ### Step 1 - Install the requirements
 
 ```bash
